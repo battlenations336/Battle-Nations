@@ -1,0 +1,40 @@
+{
+    "Budding_Builder" : {
+        "title" : "Budding Builder",
+        "description" : "Construct 15 Buildings",
+        "objective" : {
+            "icon" : "BuddingBuilder",
+            "prereq" : {
+                "_t" : "HasAnyCompositionsPrereqConfig",
+                "count" : 15
+                },
+            "steps" : [ ]        
+            },
+        "reward" : {
+                    "XP" : 0,
+                    "currency" : 10,
+                    "z2points" : 1,
+                    "resources" : { }
+                    },
+                    "units" : { }
+    },
+    "One_Bunk" : {
+        "title" : "One bunk at a time",
+        "description" : "25 Soldiers in your army",
+        "objective" : {
+            "icon" : "firstInfantry",
+            "prereq" : {
+                "_t" : "HasAnyUnitsPrereqConfig",
+                "count" : 25
+                },
+            "steps" : [ ]        
+            },
+        "reward" : {
+                    "XP" : 0,
+                    "currency" : 20,
+                    "z2points" : 2,
+                    "resources" : { }
+                    },
+                    "units" : { }
+    }
+}
