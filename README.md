@@ -1,0 +1,5 @@
+# Battle-Nations
+This github version was extracted from the last build Nitewriter made before he went off the radar. As of now, this build is completely unusable with the current version of the server because of how behind it is. The client and server is using photon as its networking system, I plan to release an update/version within the next couple of months by taking out the current networking solution and replacing it with Mirror. I will make a new branch as soon as I have made some progress. Mirror is something I feel more comfortable with but if the community wants to make something together and has a working version of the client and server we will gladly upload that version to our servers funded by patrons. You can find the compiled build from our website by clicking on the "Access" tab on our website, you will still need a patreon subscription to use it though. I would take out the patreon verification if I could but we don't have Nitewriters unity project. If you have any questions you can direct them to me @RedPal
+
+# Importing
+This was made in Unity 2019.4.17f1
